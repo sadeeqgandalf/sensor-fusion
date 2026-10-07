@@ -1,0 +1,8 @@
+*.asv
+*.mex*
+slprj/
+codegen/
+*.slxc
+.DS_Store
+resources/project/
+.DS_Store
